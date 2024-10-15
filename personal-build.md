@@ -1,6 +1,6 @@
 ## Installed Packages
 
-The following packages are included in this <h1>ZAN>h1/> build:
+The following packages are included in this <h1>ZAN</h1/> build:
 
 - ImmortalWrt Default Packages 
 - `kmod-usb-net-rtl8152`
