@@ -4,6 +4,8 @@ The following packages are included in this build:
 
 - ImmortalWrt Default Packages 
 - `kmod-usb-net-rtl8152`
+- `luci-app-https-dns-proxy`
+- `luci-app-adblock-fast`
 
 ## Script to Run on First Boot (uci-defaults)
 
