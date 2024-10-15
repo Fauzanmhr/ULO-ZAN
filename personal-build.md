@@ -11,11 +11,7 @@ The following script will execute on the first boot of the router. It modifies t
 
 ```bash
 #!/bin/sh
-# Script to change OPKG mirror base URL, set hostname to ZANWRT, and configure NTP on first boot
-
-# Change only the base OPKG mirror URL to your custom mirror
-# This replaces any URL starting with https:// with the specified mirror URL
-sed -i 's|https://.*|https://immortalwrt.kyarucloud.moe|g' /etc/opkg/distfeeds.conf
+# Script to set hostname to ZANWRT and configure NTP on first boot
 
 # Change the hostname to ZANWRT
 uci set system.@system[0].hostname='ZANWRT'
