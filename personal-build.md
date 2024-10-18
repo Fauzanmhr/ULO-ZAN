@@ -2,7 +2,7 @@
 
 The following packages are included in this `ZAN` build:
 
-- ImmortalWrt Default Packages 
+- OpenWrt Default Packages 
 - `kmod-usb-net-rtl8152`
 - `luci-app-https-dns-proxy`
 - `luci-app-adblock-fast`
