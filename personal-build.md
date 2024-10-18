@@ -6,6 +6,7 @@ The following packages are included in this `ZAN` build:
 - `kmod-usb-net-rtl8152`
 - `luci-app-https-dns-proxy`
 - `luci-app-adblock-fast`
+- `luci-app-sqm`
 
 ## Script to Run on First Boot (uci-defaults)
 
